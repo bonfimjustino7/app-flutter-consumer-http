@@ -1,15 +1,16 @@
-# app_consume
+# app consume http
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto foi desenvolvido para fins para demonstrar como consumir dados de uma api e integrar com flutter
 
-A few resources to get you started if this is your first Flutter project:
+- [Lab: API Braking Bad](https://breakingbadapi.com/api/characters)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+A tela de Listagem é demonstrada abaixo neste print:
+
+![`enter image description here`](https://github.com/bonfimjustino7/app-flutter-consumer-http/raw/master/prints/list.png)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
